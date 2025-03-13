@@ -17,8 +17,8 @@ This project provides a Python script to compare two Excel files and generate a 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/excel-file-comparison.git
-    cd excel-file-comparison
+    git clone https://github.com/ShwetaGote-py/CompaireExcel.git
+    cd CompaireExcel
     ```
 
 2. Install the required packages:
